@@ -1,0 +1,10 @@
+2.1
+Agregar flujos alternativos para: ruta y via de ruta.
+Especificar la informacion esperada en el campo unidad placas
+Reglas para placas.
+
+2.2
+Aviso de exitoso a guardar.
+3. Especial 
+Reglas para placas y unidad
+
